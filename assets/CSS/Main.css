@@ -1,0 +1,23 @@
+
+
+div.background{
+  width: auto;
+  height:auto;
+  background-image: url('http://localhost/e-pos-catering-bilqis/assets/Image/main.jpg');
+  background-repeat:no-repeat;
+  overflow-y: auto;
+  background-attachment: local;
+  background-position: center;}
+
+  #backgroundText{
+    font: 25px calibri , sans-serif;
+    font-weight:lighter;
+    text-align:center;
+    margin-top:  160px;
+
+    margin-bottom: 80px;
+
+    color:white;
+  }
+
+div.wrapper{text-align: center;}
